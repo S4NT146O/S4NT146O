@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#4F0000;">Hi 👋, I'm Santiago Zapata</h1>
-<h3 align="center">Student of Software Engineer at Universidad de Mendoza from Argentina</h3>
+<h1 align="center" style="color:#4C8EDA;">Hi 👋, I'm Santiago Zapata</h1>
+<h3 align="center" style="color:#4C8EDA;">Student of Software Engineer at Universidad de Mendoza from Argentina</h3>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <br>
@@ -7,7 +7,10 @@
 <br>
 
 <h3 align="left">Recent stats:</h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&theme=github_dark&locale=en" alt="s4nt146o" /></p>
+<div style="display: flex;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&theme=github_dark&locale=en" alt="s4nt146o" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o&layout=compact&theme=github_dark" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o;layout=donut" style="whidt:100%">
+</div>
 
 <br>
 
