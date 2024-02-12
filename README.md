@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="left">Recent stats:</h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&theme=shadow_red&locale=en" alt="s4nt146o" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&theme=blue_navy&locale=en" alt="s4nt146o" /></p>
 
 <br>
 
