@@ -1,5 +1,6 @@
-<h1 align="center" style="color:#4C8EDA;">Hi 👋, I'm Santiago Zapata</h1>
-<h3 align="center" style="color:#4C8EDA;">Student of Software Engineer at Universidad de Mendoza from Argentina</h3>
+<h1 align="center" style="color: #3572A5;">Hi 👋, I'm Santiago Zapata</h1>
+<h3 align="center" style="color: #3572A5;">Student of Software Engineering at Universidad de Mendoza from Argentina</h3>
+
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <br>
@@ -8,7 +9,12 @@
 
 <h3 align="left">Recent stats:</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o&layout=compact&theme=github_dark&hide_border=true" /></a> 
+
+<p align="center" dir="auto">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="s4nt146o's github stats" style="max-width: 100%" />  
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o&layout=compact&theme=github_dark&hide_border=true" style="max-width: 100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=s4nt146o&amp;theme=github_dark_blue&amp;hide_border=true" style="max-width: 100%;">
+</p>
 
 <br>
 
