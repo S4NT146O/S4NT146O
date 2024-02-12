@@ -7,10 +7,8 @@
 <br>
 
 <h3 align="left">Recent stats:</h3>
-<div style="display: flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&theme=github_dark&locale=en" alt="s4nt146o" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o&layout=compact&theme=github_dark" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o;layout=donut" style="whidt:100%">
-</div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nt146o&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nt146o&layout=compact&theme=github_dark&hide_border=true" /></a> 
 
 <br>
 
